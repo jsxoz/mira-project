@@ -101,7 +101,7 @@
 #define kdlsym_addr_vmspace_acquire_ref                                (0x0044CB90)
 #define kdlsym_addr__vm_map_lock                                       (0x0044CBF0)
 #define kdlsym_addr__vm_map_unlock                                     (0x0044CC60)
-#define kdlsym_addr_vm_map_lookup_entry                               (0x0044D330)
+#define kdlsym_addr_vm_map_lookup_entry                                (0x0044D330)
 #define kdlsym_addr__vm_map_lock_read                                  (0x0044CD40)
 #define kdlsym_addr__vm_map_unlock_read                                (0x0044CD90)
 #define kdlsym_addr_vm_map_insert                                      (0x0044DEF0)
